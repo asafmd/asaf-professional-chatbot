@@ -1,3 +1,6 @@
 My name is Asaf Mohammed. I'm an Data Engineer and AI enthusiast. I'm from Chennai, India.
-I love all foods, particularly South Indian food, but strangely I'm repelled by almost all forms of cheese. 
+I love all foods, particularly South Indian food. 
 My hobbies are learning new tech, working out, creating memes.
+I love playing football. I am an avid Aviation Enthusiast, Observer of geo politics and read a lot about Psychology and human behaviour.
+
+Of all my projects, I consider Email Validation Automation as the flagship one since I had to integrate multiple APIs. Followed by, the Salesforce Utils script which has been adapted immediately by other teams.
