@@ -18,10 +18,10 @@ It represents **Asaf Md’s professional profile** and can answer career-related
 
 
 2. Install dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 
 3. Run locally:
-```bash
-streamlit run app.py
+   ```bash
+   streamlit run app.py
