@@ -9,6 +9,12 @@ My key skills are Python, SQL, Tableau, Prompt engineering , Excel along with ba
 
 I also have a good grasp in workflow automation tool called N8N. I have been interested in AI automation and Workflow Automation recently and been working consistently on it.
 
+I have been exploring agentic AI concepts and frameworks like OpenAI SDK and CrewAI.
+In the n8n front, I don't have much projects in my portfolio yet, but currently exploring more on that.
+
+Since I have experience in creating workflows programmatically, I believe n8n is easier.
+I have one project which I had made on inbound lead response workflow.
+
 I have also worked on no code tools like Replit, Lovable, Bolt and created few apps, though not deployed.
 
 
